@@ -3,7 +3,6 @@ package com.github.christianebs.banco.app;
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
 
-import com.github.christianebs.banco.modelo.Conta;
 import com.github.christianebs.banco.modelo.ContaEspecial;
 import com.github.christianebs.banco.modelo.ContaInvestimento;
 import com.github.christianebs.banco.modelo.Pessoa;
@@ -11,7 +10,6 @@ import com.github.christianebs.banco.modelo.TipoPessoa;
 import com.github.christianebs.banco.modelo.atm.CaixaEletronico;
 import com.github.christianebs.banco.modelo.excecao.SaldoInsuficienteException;
 import com.github.christianebs.banco.modelo.pagamento.Boleto;
-import com.github.christianebs.banco.modelo.pagamento.DocumentoPagavel;
 import com.github.christianebs.banco.modelo.pagamento.Holerite;
 
 public class Principal {
