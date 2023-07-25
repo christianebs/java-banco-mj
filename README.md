@@ -12,7 +12,7 @@ O sistema permite aos clientes realizar operações bancárias, tais como saques
 
 <h2><img width="20px" src="https://github.com/christianebs/christianebs/assets/108686840/5c7bf7c9-1183-43a0-9b86-49812dad39fc"> Informações </h2>
 
-Este projeto faz parte da jornada **Mergulho Java (MJ)** da AlgaWorks.
+Este projeto faz parte da jornada **Mergulho Java** da AlgaWorks.
 
 <h2><img width="20px" src="https://github.com/christianebs/christianebs/assets/108686840/a2e28590-7b92-43d6-bc0c-8f7461b1914c"> Links </h2>
 
